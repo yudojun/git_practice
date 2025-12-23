@@ -1,0 +1,13 @@
+# VS Code 설정
+.vscode/
+
+# 개인 학습 / 실험 폴더
+study/
+python/
+docker-test/
+
+# 민감 정보 (절대 커밋 금지)
+firebase key/
+
+# 임시 연습 파일
+git_practice.py
